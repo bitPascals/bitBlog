@@ -78,6 +78,7 @@ db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
+../day-69-starting-files-blog-with-users/instance/
 ../day-70-starting-files-blog-for-deployment/instance/
 .webassets-cache
 
